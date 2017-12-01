@@ -1,0 +1,11 @@
+2500
+25
+{ nm: 'android', age: 10 }
+Functional Flow
+Normal Flow 20
+Well function is CodeKul
+Speed of car is 15
+Mercedez Called
+Functional Flow
+In then block codekul
+Status success Operation insert
